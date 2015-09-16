@@ -1,2 +1,3 @@
 # new-eng-mgr-guide
-A practical guide for new engineering managers.
+Management Patterns for Software Engineering Leader: A practical guide for new engineering managers.
+
